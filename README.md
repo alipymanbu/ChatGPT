@@ -1,24 +1,27 @@
-<p align="center">
-  <img width="180" src="./public/ChatGPT.png" alt="ChatGPT">
-  <p align="center">ChatGPT Desktop Application (Available on Mac, Windows, and Linux)</p>
-</p>
+# ChatGPT
 
-[![ChatGPT downloads](https://img.shields.io/github/downloads/lencx/ChatGPT/total.svg?style=flat-square)](https://github.com/lencx/ChatGPT/releases)
-[![chat](https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord)](https://discord.gg/aPhCRf4zZr)
-[![twitter](https://img.shields.io/badge/follow-lencx__-blue?style=flat&logo=Twitter)](https://twitter.com/lencx_)
-[![youtube](https://img.shields.io/youtube/channel/subscribers/UC__gTZL-OZKDPic7s_6Ntgg?style=social)](https://www.youtube.com/@lencx)
+本仓库是「ChatGPT」的安卓版本获取入口，附使用资料索引。
 
-<a href="https://www.buymeacoffee.com/lencx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
+## 安装文件资源（夸克网盘）
+
+> **ChatGPT 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/e53587484dbd](https://pan.quark.cn/s/e53587484dbd)
+
+## 官方项目
+
+- 上游项目：[lencx/ChatGPT](https://github.com/lencx/ChatGPT)
+
+## 更多资料
+
+- [下载与安装教程](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ChatGPT/%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)
+- [免费版与付费版区别](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ChatGPT/%E5%85%8D%E8%B4%B9%E7%89%88%E4%B8%8E%E4%BB%98%E8%B4%B9%E7%89%88%E5%8C%BA%E5%88%AB.md)
+- [常见问题与解决办法](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ChatGPT/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.md)
+- [手机端功能一览](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ChatGPT/%E6%89%8B%E6%9C%BA%E7%AB%AF%E5%8A%9F%E8%83%BD%E4%B8%80%E8%A7%88.md)
+- [没有谷歌服务能正常用吗](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ChatGPT/%E6%B2%A1%E6%9C%89%E8%B0%B7%E6%AD%8C%E6%9C%8D%E5%8A%A1%E8%83%BD%E6%AD%A3%E5%B8%B8%E7%94%A8%E5%90%97.md)
+- [注册与登录账号](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ChatGPT/%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95%E8%B4%A6%E5%8F%B7.md)
+- [订阅扣款与退款](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ChatGPT/%E8%AE%A2%E9%98%85%E6%89%A3%E6%AC%BE%E4%B8%8E%E9%80%80%E6%AC%BE.md)
+- [账号被停用与申诉](https://github.com/alipymanbu/Android/blob/master/%E5%AE%98%E7%BD%91%E7%89%88APP%E4%B8%8B%E8%BD%BD/ChatGPT/%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%81%9C%E7%94%A8%E4%B8%8E%E7%94%B3%E8%AF%89.md)
+- [全部软件目录](https://github.com/alipymanbu/Android/blob/master/%E5%85%A8%E9%83%A8%E8%BD%AF%E4%BB%B6%E7%9B%AE%E5%BD%95.md)
 
 ---
 
-> [!NOTE]
-> **If you want to experience a more powerful AI wrapper application, you can try the Noi (https://github.com/lencx/Noi), which is a successor to the ChatGPT desktop application concept.**
-
-Thank you very much for your interest in this project. OpenAI has now released the macOS version of the application, and a Windows version will be available later ([Introducing GPT-4o and more tools to ChatGPT free users](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)). If you prefer the official application, you can stay updated with the latest information from OpenAI.
-
-If you want to learn about or download the previous version (v1.1.0), please click [here](https://github.com/lencx/ChatGPT/tree/release-v1.1.0).
-
-I am currently looking for some differentiating features to develop version 2.0. If you are interested in this, please stay tuned.
-
-![](./docs/static/chatgpt-v2.gif)
+> 本仓库由上游项目 fork 而来，原始说明见[上游仓库](https://github.com/lencx/ChatGPT)。
